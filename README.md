@@ -83,6 +83,8 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/fc6b65f2-bcf3-4bd4-a774-7daf7ec76afd)
 
+![image](https://github.com/user-attachments/assets/d543d851-b9be-4e6d-b8a1-999263b66ac3)
+
 # Results
 
 Thus, A Python program is successfully executed for the Construction and Reconctruction of Flat-Top Sampleing.
